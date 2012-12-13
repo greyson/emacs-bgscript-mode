@@ -24,7 +24,7 @@
 
 (defvar bgscript-keywords
   (regexp-opt
-   '("if" "then" "else" "end" "event" "while" "call" "dim" "let"))
+   '("if" "const" "then" "else" "end" "event" "while" "call" "dim" "let"))
   "BGScript keywords")
 
 (defvar bgscript-types
